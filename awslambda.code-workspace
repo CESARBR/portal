@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "/Users/bam/.local/share/virtualenvs/awslambda-Fpyscklm/bin/python",
+		"python.linting.pylintUseMinimalCheckers": false,
+		"python.linting.ignorePatterns": [
+			".vscode/*.py"
+		],
+		"files.autoSave": "afterDelay"
+	}
+}
